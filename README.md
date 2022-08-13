@@ -2,6 +2,7 @@
 
 > em desenvolvimento
 
+executar comando
 ```
 npm install
 ```
